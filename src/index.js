@@ -7,7 +7,7 @@ export default function App() {
     return (
         <>
             <A label="Huhahahah" />
-            <button onClick={() => console.war('hello')}>Hello</button>
+            <button onClick={() => console.log('hello')}>Hello</button>
         </>
     )
 }
