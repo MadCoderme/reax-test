@@ -4,7 +4,7 @@ export default function App() {
     const [txt, setTxt] = useState('') 
      
     return (
-        <>
+        <> 
             <button onClick={() => {
                 console.log('hello') 
             }}>
