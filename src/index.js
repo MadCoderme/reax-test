@@ -6,7 +6,6 @@ export default function App() {
     
     return (
         <>
-            <A label="Huhahahah" />
             <button onClick={() => {
                 console.log('hello')
             }}>
