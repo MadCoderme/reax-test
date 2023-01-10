@@ -1,4 +1,3 @@
-import A from "../components/A.js" 
 import React, { useState } from 'react'
 
 export default function App() { 
