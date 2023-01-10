@@ -1,13 +1,18 @@
 import A from "../components/A.js" 
-import React from 'react'
+import React, { useState } from 'react'
 import { test } from '../utils'
 
-export default function App() {
-    const [txt, setTxt] = React.useState('')
+export default function App() { 
+    const [txt, setTxt] = useState('')
+    
     return (
         <>
             <A label="Huhahahah" />
-            <button onClick={() => console.log('hello')}>Hello</button>
+            <button onClick={() => {
+                console.log('hello')
+            }}>
+                Hello
+            </button> 
         </>
     )
 }
