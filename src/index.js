@@ -1,6 +1,5 @@
 import A from "../components/A.js" 
 import React, { useState } from 'react'
-import { test } from '../utils'
 
 export default function App() { 
     const [txt, setTxt] = useState('')
