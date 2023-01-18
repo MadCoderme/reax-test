@@ -8,7 +8,7 @@ export default function App() {
             <button onClick={() => {
                 console.log('hello') 
             }}>
-                Hello boy, Click me!
+                Click me!
             </button> 
         </>
     )
