@@ -1,8 +1,9 @@
 {
-	"name": "AXMYT - A simple react app on Reax",
-	"shortName": "AXMYT",
-	"description": "Demo app created with Reax",
+	"name": "reax-test - xkimc",
+	"shortName": "reax-test",
+	"description": "",
 	"lang": "en",
 	"themeColor": "black",
-	"backgroundColor": "white"
+	"backgroundColor": "white",
+	"icon": ""
 }
